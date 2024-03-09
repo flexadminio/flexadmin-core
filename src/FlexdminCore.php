@@ -1,6 +1,6 @@
 <?php
 
-namespace Flexa\FlexdminCore;
+namespace Flexadmin\Core;
 
 class FlexdminCore {
   public function boot() {

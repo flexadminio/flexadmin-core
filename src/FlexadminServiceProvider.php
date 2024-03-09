@@ -1,6 +1,6 @@
 <?php
 
-namespace Flexa\FlexdminCore;
+namespace Flexadmin\Core;
 
 use Illuminate\Support\ServiceProvider;
 
