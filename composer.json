@@ -1,0 +1,28 @@
+{
+    "name": "flexa/flexadmin-core",
+    "description": "Core package of Laravel FlexAdmin",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Flexa\\FlexadminCore\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "\\Flexa\\FlexadminCore\\FlexadminServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "flexa",
+            "email": "support@flexadmin.io"
+        }
+    ],
+    "minimum-stability": "dev"
+}
