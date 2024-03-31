@@ -3,9 +3,8 @@
     "description": "Core package of Laravel FlexAdmin",
     "type": "library",
     "require": {
-        "php": "^8.2",
         "techamz/flexadmin-templates": "^2.0",
-        "techamz/laravel-generator": "^1.1"
+        "techamz/laravel-generator": "^2.0"
     },
     "license": "MIT",
     "autoload": {
